@@ -1,7 +1,11 @@
 # metapol-web
-Metalpol FrontEnd
-<ul>
-  
+
+
+<h3>Minify Javascript </h2> <br>
+
+<h4>(For CSS, go <a href="#minify-css"> Minify CSS Section</a>)
+
+<ul>  
 <li>To get the package.json entry file, go to root folder and run 
   
 <pre> npm innit</pre></>
@@ -42,3 +46,6 @@ This will create a scripts.min.js in the folder 'assets'
 
 <li> Feel free to delete the old scripts files [You can alsodelete the node_modules folder]
 </ul>
+
+
+<h3><a class="anchor" aria-hidden="true" href="#minify-css">Minify CSS<a/></>
