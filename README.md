@@ -24,7 +24,7 @@ Step 2:
 
 <li>In your package.json file, go to the "scripts" sections and add the following under test:
 
-<li><pre>"minifyjs": "uglifyjs-folder ./assets/scripts -o ./assets/scripts.min.js"},</pre>
+<li><pre>"minifyjs": "uglifyjs-folder ./assets/scripts -o ./assets/scripts.min.js"</pre>
 
 <b> Run</b> 
  
@@ -34,7 +34,7 @@ This will create a scripts.min.js in the folder 'assets'
   
 <li>Add another line for vendor scripts
   
-<pre>"minifyvendor": "uglifyjs-folder ./assets/vendors -o ./assets/vendors.min.js"},</pre>
+<pre>"minifyvendor": "uglifyjs-folder ./assets/vendors -o ./assets/vendors.min.js"</pre>
   
 <b>Run</b> 
   
