@@ -27,7 +27,8 @@ div.title-stroke{
 div.title-baby{
   font-family: 'russo_oneregular'!important;
   color: rgb(255, 255, 255);
-  font-weight: 100;line-height:1.2em;
+  font-weight: 100;
+  line-height:1.2em;
   font-size : 50px;
   letter-spacing : 3px;
 }
